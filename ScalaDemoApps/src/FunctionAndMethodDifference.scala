@@ -16,7 +16,8 @@ object FunctionAndMethodDifference {
     {
       input1*input2
     }
-     0.0 
+     0.0
     }
     
 }
+
